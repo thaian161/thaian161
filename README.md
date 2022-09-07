@@ -1,5 +1,3 @@
-###  Hiiiiiiiiiiii 👋
-
 <!--
 **thaian161/thaian161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=28&pause=1000&width=435&lines=Welcome+to+Ann+Bui's+GitHub)](https://git.io/typing-svg)
-
 ```javascript
 const annBui = {
   techStacks: {
