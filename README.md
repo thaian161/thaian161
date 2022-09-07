@@ -14,19 +14,21 @@ Here are some ideas to get you started:
 -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=28&pause=1000&width=435&lines=Welcome+to+Ann+Bui's+GitHub)](https://git.io/typing-svg)
+
 ```javascript
 const annBui = {
-  techStacks: {
-    frontEnd: [HTML,CSS,Javascript,ReactJS],
-    backEnd: [Ruby,PHP,ExpressJS,NodeJS],
-    systemAndDatabase: [SQL,PostgrestSQL,Git],
-    otherTools: [JIRA,Figma,Slack,Asana,G-suite],
-  },
   passionate: "Front End Focus: designing and creating
-   products that are user-friendly 
-   and visually appealing."
+    products that are user-friendly
+    and visually appealing.",
+
+  techStacks: {
+    frontEnd: [HTML, CSS, SASS, Javascript, ReactJS],
+    backEnd: [Ruby, Rails, PHP, ExpressJS, NodeJS],
+    database: [SQL, PostgreSQl, Git],
+  },
 };
 ```
+
 <div style="display: flex;
 align-items: center;
 justify-content: center;">📫 Contact me: </div>
@@ -45,4 +47,3 @@ justify-content: center;">
   </a>
   
 </div>
-
