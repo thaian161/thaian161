@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hiiiiiiiiiiiiii 👋
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&vCenter=true&width=435&lines=Welcome+To+Ann+Bui's+GitHub)](https://git.io/typing-svg)
@@ -37,7 +35,6 @@ const annBui = {
 };
 ```
 
-# Other Tools
 
  <p align="center">📫 Contact me:</p>
 <div id="badges" align="center">
