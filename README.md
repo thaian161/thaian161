@@ -51,7 +51,7 @@ const annBui = {
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
    <a href="https://resume.creddle.io/resume/j1ryfjyu3f1">
-    <img src="	https://img.shields.io/badge/RESUME-05998c?style=for-the-badge&logo=creddle&logoColor=white" alt="Resume Badge"/>
+    <img src="	https://img.shields.io/badge/RESUME-05998c?style=logoColor=white" alt="Resume Badge"/>
   </a>
   
 </div>
