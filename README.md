@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 
 ### Hiiiiiiiiiiiiii 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=28&pause=1000&width=435&lines=Welcome+to+Ann+Bui's+GitHub)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&vCenter=true&width=435&lines=Welcome+To+Ann+Bui's+GitHub)](https://git.io/typing-svg)
 
 Junior Full-stack Web Developer who is looking for her first professional software development opportunity.
+</div>
 
 ```javascript
 const annBui = {
