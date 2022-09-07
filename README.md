@@ -1,4 +1,4 @@
-### Hi there 👋
+###  Hiiiiiiiiiiii 👋
 
 <!--
 **thaian161/thaian161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Ann+Bui's+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=28&pause=1000&width=435&lines=Welcome+to+Ann+Bui's+GitHub)](https://git.io/typing-svg)
 
 ```
 const annBui = {
@@ -28,8 +28,13 @@ const annBui = {
   passionate: ""
 };
 ```
+<div style="display: flex;
+align-items: center;
+justify-content: center;">📫 Contact me: </div>
 
-<div id="badges">
+<div id="badges" style="display: flex;
+align-items: center;
+justify-content: center;">
 <a href="mailto:hello.annbui@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
