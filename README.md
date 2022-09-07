@@ -24,7 +24,7 @@ Junior Full-stack Web Developer who is looking for her first professional softwa
 
 ```javascript
 const annBui = {
-  passionate: "Front End Focus: designing and creating
+  passionate: "FRONT END FOCUS: designing and creating
     products that are user-friendly
     and visually appealing.",
 
