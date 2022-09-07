@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=28&pause=1000&width=435&lines=Welcome+to+Ann+Bui's+GitHub)](https://git.io/typing-svg)
 
-```
+```javascript
 const annBui = {
   techStacks: {
-    frontEnd = [];
-    backEnd  = [];
-    systemAndDatabase = [];
-    otherTools =[];
+    frontEnd = ["HTML","CSS","Javascript","ReactJS"];
+    backEnd  = ["Ruby","PHP","ExpressJS","NodeJS"];
+    systemAndDatabase = ["SQL","PostgrestSQL","Git"];
+    otherTools =["JIRA","Figma","Slack","Asana","G-suite"];
   },
-  passionate: ""
+  passionate: "Front End Focus: designing and creating products that are user-friendly and visually appealing."
 };
 ```
 <div style="display: flex;
@@ -46,3 +46,4 @@ justify-content: center;">
   </a>
   
 </div>
+
