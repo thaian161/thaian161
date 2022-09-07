@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 ```javascript
 const annBui = {
   techStacks: {
-    frontEnd = ["HTML","CSS","Javascript","ReactJS"];
-    backEnd  = ["Ruby","PHP","ExpressJS","NodeJS"];
-    systemAndDatabase = ["SQL","PostgrestSQL","Git"];
-    otherTools =["JIRA","Figma","Slack","Asana","G-suite"];
+    frontEnd: [HTML,CSS,Javascript,ReactJS];
+    backEnd: [Ruby,PHP,ExpressJS,NodeJS];
+    systemAndDatabase: [SQL,PostgrestSQL,Git];
+    otherTools: [JIRA,Figma,Slack,Asana,G-suite];
   },
   passionate: "Front End Focus: designing and creating products that are user-friendly and visually appealing."
 };
