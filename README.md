@@ -36,6 +36,8 @@ const annBui = {
 };
 ```
 
+# Other Tools
+
  <p align="center">📫 Contact me:</p>
 <div id="badges" align="center">
 <a href="mailto:hello.annbui@gmail.com">
@@ -47,5 +49,9 @@ const annBui = {
   <a href="https://www.youtube.com/user/JanthBui/featured">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+   <a href="https://resume.creddle.io/resume/j1ryfjyu3f1">
+    <img src="	https://img.shields.io/badge/RESUME-05998c?style=for-the-badge&logo=&logoColor=white" alt="Resume Badge"/>
+  </a>
   
 </div>
+
