@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&vCenter=true&width=435&lines=Welcome+To+Ann+Bui's+GitHub)](https://git.io/typing-svg)
 
 Junior Full-stack Web Developer who is looking for her first professional software development opportunity.
+
 </div>
 
 ```javascript
@@ -50,8 +51,7 @@ const annBui = {
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
    <a href="https://resume.creddle.io/resume/j1ryfjyu3f1">
-    <img src="	https://img.shields.io/badge/RESUME-05998c?style=for-the-badge&logo=&logoColor=white" alt="Resume Badge"/>
+    <img src="	https://img.shields.io/badge/RESUME-05998c?style=for-the-badge&logo=creddle&logoColor=white" alt="Resume Badge"/>
   </a>
   
 </div>
-
