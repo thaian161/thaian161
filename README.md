@@ -51,4 +51,6 @@ const annBui = {
     <img src="https://img.shields.io/badge/RESUME-05998c?style=for-the-badge&logo=c&logoColor=white" alt="Resume Badge"/>
   </a>
   
+[Persona](https://github.com/thaian161/thaian161/blob/main/docs/Ann's%20Persona.png)
+
 </div>
