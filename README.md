@@ -18,7 +18,8 @@ Junior Full-stack Web Developer who is looking for her first professional softwa
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&vCenter=true&width=435&lines=Welcome+To+Ann+Bui's+GitHub)](https://git.io/typing-svg)
 
-Junior Full-stack Web Developer who is passionate about Front End Development. Web Dev @[Empowered4X](https://www.linkedin.com/company/empowered4x/)
+Junior Full-stack Web Developer who is passionate about Front End Development. 
+Web Dev @[Empowered4X](https://www.linkedin.com/company/empowered4x/)
 
 </div>
 
