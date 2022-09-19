@@ -2,6 +2,7 @@
 **thaian161/thaian161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+Junior Full-stack Web Developer who is looking for her first professional software development opportunity.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&vCenter=true&width=435&lines=Welcome+To+Ann+Bui's+GitHub)](https://git.io/typing-svg)
 
-Junior Full-stack Web Developer who is looking for her first professional software development opportunity.
+Junior Full-stack Web Developer who is passionate about Front End Development. Web Dev @[Empowered4X](https://www.linkedin.com/company/empowered4x/)
 
 </div>
 
