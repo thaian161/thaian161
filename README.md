@@ -27,22 +27,7 @@ Junior Full-stack Web Developer who is looking for her first professional softwa
 
 </div>
 
-```javascript
-const annBui = {
-  passionate: "FRONT END FOCUS: designing and creating products 
-    that are user-friendly
-    and visually appealing.",
-
-  techStacks: {
-    frontEnd: [HTML, CSS, SASS, Javascript, ReactJS],
-    backEnd: [Ruby, Rails, PHP, ExpressJS, NodeJS],
-    database: [SQL, PostgreSQl, Git],
-  },
-};
-```
-
-
- <p align="center">📫 Contact me:</p>
+<p align="center">📫 Contact me:</p>
 <div id="badges" align="center">
 <a href="mailto:hello.annbui@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -59,4 +44,21 @@ const annBui = {
   
 <!-- ![Persona](https://github.com/thaian161/thaian161/blob/main/docs/Ann's%20Persona.png) -->
 
+<br>
+```javascript
+const annBui = {
+  passionate: "FRONT END FOCUS: designing and creating products 
+    that are user-friendly
+    and visually appealing.",
+
+  techStacks: {
+    frontEnd: [HTML, CSS, SASS, Javascript, ReactJS],
+    backEnd: [Ruby, Rails, PHP, ExpressJS, NodeJS],
+    database: [SQL, PostgreSQl, Git],
+  },
+};
+```
+
+
+ 
 </div>
