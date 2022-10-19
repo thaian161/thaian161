@@ -17,13 +17,11 @@ Junior Full-stack Web Developer who is looking for her first professional softwa
 <div align="center">
 
 
-!["Banner"](https://github.com/thaian161/thaian161/blob/main/docs/Screen%20Shot%202022-10-19%20at%202.28.21%20AM.png)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=6000&pause=1000&color=9CD4F3&vCenter=true&width=435&lines=Welcome+To+Ann+Bui's+GitHub)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat+&size=25&duration=6000&pause=1000&color=0C577F&center=true&vCenter=true&width=435&lines=Welcome+To+Ann+Bui's+GitHub)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=6000&pause=1000&color=0C577F&center=true&vCenter=true&width=435&lines=Welcome+To+Ann+Bui's+GitHub)](https://git.io/typing-svg)
+  
+ !["Banner"](https://github.com/thaian161/thaian161/blob/main/docs/Screen%20Shot%202022-10-19%20at%202.28.21%20AM.png)
 
 Junior Full-stack Web Developer who is passionate about Front End Development. 
 Web Dev @[Empowered4X](https://www.linkedin.com/company/empowered4x/)
