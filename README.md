@@ -24,7 +24,7 @@ Junior Full-stack Web Developer who is looking for her first professional softwa
  !["Banner"](https://github.com/thaian161/thaian161/blob/main/docs/Screen%20Shot%202022-10-19%20at%202.28.21%20AM.png)
 
 Junior Full-stack Web Developer who is passionate about Front End Development. 
-Web Dev @[Empowered4X](https://www.linkedin.com/company/empowered4x/)
+Web Dev @[Empowered4X](https://www.linkedin.com/company/empowered4x/) - Parttime Freelancer
 
 </div>
 
