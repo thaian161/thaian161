@@ -16,6 +16,9 @@ Junior Full-stack Web Developer who is looking for her first professional softwa
 
 <div align="center">
 
+
+!["Banner"](https://github.com/thaian161/thaian161/blob/main/docs/Screen%20Shot%202022-10-19%20at%202.28.21%20AM.png)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&vCenter=true&width=435&lines=Welcome+To+Ann+Bui's+GitHub)](https://git.io/typing-svg)
 
 Junior Full-stack Web Developer who is passionate about Front End Development. 
