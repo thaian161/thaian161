@@ -21,7 +21,7 @@ Junior Full-stack Web Developer who is looking for her first professional softwa
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=6000&pause=1000&color=0C577F&vCenter=true&width=435&lines=Welcome+To+Ann+Bui's+GitHub)](https://git.io/typing-svg)
   
- !["Banner"](https://github.com/thaian161/thaian161/blob/main/docs/Github%20Banner.png)
+ !["Banner"](https://github.com/thaian161/thaian161/blob/main/docs/Github%20banner%202.png)
 
 
 
