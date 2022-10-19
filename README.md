@@ -27,9 +27,6 @@ Junior Full-stack Web Developer who is looking for her first professional softwa
 
 </div>
 
-
-
-<br>
 ```javascript
 const annBui = {
   passionate: "FRONT END FOCUS: designing and creating products 
@@ -43,7 +40,7 @@ const annBui = {
   },
 };
 ```
-
+</div>
 
  <p align="center">📫 Contact me:</p>
 <div id="badges" align="center">
@@ -61,4 +58,4 @@ const annBui = {
   </a>
   
 <!-- ![Persona](https://github.com/thaian161/thaian161/blob/main/docs/Ann's%20Persona.png) -->
-</div>
+
