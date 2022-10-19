@@ -34,10 +34,10 @@ const annBui = {
     and visually appealing.",
 
   techStacks: {
-    frontEnd: [HTML, CSS, SASS, Javascript, ReactJS],
+    frontEnd: [HTML, CSS, SASS, Javascript, ReactJS, NextJS],
     backEnd: [Ruby, Rails, PHP, ExpressJS, NodeJS],
     database: [SQL, PostgreSQl, Git],
-    tools: [Figma, Jira, Slack, G-suite, LuciChart],
+    tools: [Figma, Jira, Slack, G Suite, LuciChart, Asana, WordPress CRM],
   },
 };
 ```
