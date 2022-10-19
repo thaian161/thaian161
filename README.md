@@ -37,6 +37,7 @@ const annBui = {
     frontEnd: [HTML, CSS, SASS, Javascript, ReactJS],
     backEnd: [Ruby, Rails, PHP, ExpressJS, NodeJS],
     database: [SQL, PostgreSQl, Git],
+    tools: [Figma, Jira, Slack, G-suite, LuciChart],
   },
 };
 ```
