@@ -27,9 +27,9 @@ Junior Full-stack Web Developer who is looking for her first professional softwa
 
 </div>
 
-Web Dev Intern @[Empowered4x](https://empowered4x.com/)
+Web Dev Intern [@Empowered4x](https://empowered4x.com/)
 <br>
-Front-end Dev Freenlancer @[mylifeplaybook](https://github.com/mylifeplaybook)
+Front-end Dev Freenlancer [@mylifeplaybook](https://github.com/mylifeplaybook)
 
 ```javascript
 const annBui = {
