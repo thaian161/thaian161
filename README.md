@@ -27,6 +27,9 @@ Junior Full-stack Web Developer who is looking for her first professional softwa
 
 </div>
 
+Web Dev Intern @[Empowered4x](https://empowered4x.com/)
+Front-end Dev Freenlancer @mylifeplaybook
+
 ```javascript
 const annBui = {
   passionate: "FRONT END FOCUS: designing and creating products 
