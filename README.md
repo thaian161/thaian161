@@ -27,7 +27,7 @@ Junior Full-stack Web Developer who is looking for her first professional softwa
 
 </div>
 
-Web Dev Intern [@Empowered4x](https://empowered4x.com/)
+Web Dev [@Empowered4x](https://empowered4x.com/)
 <br>
 
 
