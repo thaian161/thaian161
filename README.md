@@ -23,11 +23,11 @@ Junior Full-stack Web Developer who is looking for her first professional softwa
   
  !["Banner"](https://github.com/thaian161/thaian161/blob/main/docs/GitHub-2.png)
 
-
+➡️ Check out [My Portfolio](https://thaian161.github.io/annbui-portfolio/) ⬅️
 
 </div>
 
-➡️ Check out [My Portfolio](https://thaian161.github.io/annbui-portfolio/) ⬅️
+
 <br>
 
 
