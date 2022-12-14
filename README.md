@@ -27,7 +27,7 @@ Junior Full-stack Web Developer who is looking for her first professional softwa
 
 </div>
 
-Web Dev [@Empowered4x](https://empowered4x.com/)
+➡️ Check out [My Portfolio](https://thaian161.github.io/annbui-portfolio/) ⬅️
 <br>
 
 
