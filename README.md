@@ -62,7 +62,7 @@ const annBui = {
     <img src="https://img.shields.io/badge/RESUME-05998c?style=for-the-badge&logo=c&logoColor=white" alt="Resume Badge"/>
   </a>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaian161&theme=algolia)
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thaian161&show_icons=true&theme=algolia)
+<!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaian161&theme=algolia)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thaian161&show_icons=true&theme=algolia) -->
 <!-- ![Persona](https://github.com/thaian161/thaian161/blob/main/docs/Ann's%20Persona.png) -->
 
