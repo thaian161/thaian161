@@ -66,3 +66,5 @@ const annBui = {
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thaian161&show_icons=true&theme=algolia) -->
 <!-- ![Persona](https://github.com/thaian161/thaian161/blob/main/docs/Ann's%20Persona.png) -->
 
+ <a href="https://thaian161.github.io/annbui-portfolio/">
+    <img src="https://img.shields.io/badge/MyPortfolio-#E0F4FF?style=for-the-badge&logo=youtube&logoColor=#0C577F" alt="Portfolio Badge"/>
