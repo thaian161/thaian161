@@ -23,7 +23,7 @@ Junior Full-stack Web Developer who is looking for her first professional softwa
   
  !["Banner"](https://github.com/thaian161/thaian161/blob/main/docs/Frame%203.png)
 
-Check out my:
+ <p align="center">Check out my:</p>
 ➡️ <a href="https://thaian161.github.io/annbui-portfolio/">
     <img src="https://img.shields.io/badge/My Portfolio-0C577F?style=for-the-badge&logo=P&logoColor=E0F4FF" alt="Portfolio Badge"/> ⬅️
 
