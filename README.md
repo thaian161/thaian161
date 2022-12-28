@@ -25,7 +25,7 @@ Junior Full-stack Web Developer who is looking for her first professional softwa
 
  <p align="center">Check out:</p>
 ➡️ <a href="https://thaian161.github.io/annbui-portfolio/" target="_blank" rel="noopener noreferrer">
-    <img style="height:50px, width:120px" src="https://img.shields.io/badge/My Portfolio-0C577F?style=for-the-badge&logo=P&logoColor=E0F4FF" alt="Portfolio Badge"/> ⬅️
+    <img style="height:100px, width:220px" src="https://img.shields.io/badge/My Portfolio-0C577F?style=for-the-badge&logo=P&logoColor=E0F4FF" alt="Portfolio Badge"/> ⬅️
 
 </div>
 
