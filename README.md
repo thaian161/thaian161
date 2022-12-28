@@ -24,7 +24,8 @@ Junior Full-stack Web Developer who is looking for her first professional softwa
  !["Banner"](https://github.com/thaian161/thaian161/blob/main/docs/Frame%203.png)
 
  <p align="center">Check out my:</p>
-➡️ <a href="https://thaian161.github.io/annbui-portfolio/" target="_blank">
+➡️ <a href="https://thaian161.github.io/annbui-portfolio/"    target="_blank"
+                    rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/My Portfolio-0C577F?style=for-the-badge&logo=P&logoColor=E0F4FF" alt="Portfolio Badge"/> ⬅️
 
 </div>
@@ -51,16 +52,20 @@ const annBui = {
 
  <p align="center">📫 Contact me:</p>
 <div id="badges" align="center">
-<a href="mailto:hello.annbui@gmail.com" target="_blank">
+<a href="mailto:hello.annbui@gmail.com"    target="_blank"
+                    rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/thaian161/" target="_blank">
+  <a href="https://www.linkedin.com/in/thaian161/"    target="_blank"
+                    rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/user/JanthBui/featured" target="_blank">
+  <a href="https://www.youtube.com/user/JanthBui/featured"    target="_blank"
+                    rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-   <a href="https://resume.creddle.io/resume/j1ryfjyu3f1" target="_blank">
+   <a href="https://resume.creddle.io/resume/j1ryfjyu3f1"    target="_blank"
+                    rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/RESUME-05998c?style=for-the-badge&logo=c&logoColor=white" alt="Resume Badge"/>
   </a>
   
