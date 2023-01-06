@@ -19,7 +19,7 @@ Junior Full-stack Web Developer who is looking for her first professional softwa
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=6000&pause=1000&color=0C577F&vCenter=true&width=435&lines=Welcome+To+Ann+Bui's+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=28&duration=6000&pause=1000&color=0C577F&center=true&vCenter=true&multiline=true&width=435&lines=WELCOME+TO+ANN+BUI's+GITHUB;Check+out%3A)](https://git.io/typing-svg)
   
  
   <p align="center">Check out:</p>
