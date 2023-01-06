@@ -16,7 +16,7 @@ Junior Full-stack Web Developer who is looking for her first professional softwa
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=40&pause=1000&color=0C577F&center=true&vCenter=true&multiline=true&width=550&height=60&lines=WELCOME+TO+ANN+BUI's+GITHUB)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=40&pause=1000&color=0C577F&center=true&vCenter=true&multiline=true&width=600&height=60&lines=WELCOME+TO+ANN+BUI's+GITHUB)](https://git.io/typing-svg) 
   <p align="center"> Check Out:</p>
 <a href="https://thaian161.github.io/annbui-portfolio/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/My Portfolio-0C577F?style=for-the-badge&logo=P&logoColor=E0F4FF" alt="Portfolio Badge"/> 
